@@ -1,4 +1,4 @@
-## Projeto consiste em provisionar uma função lambda com python, policy e role que permite criar inválidation
+## Projeto consiste em provisionar uma função lambda com python, policy e role que permite criar invalidation na distribuição do cloudfront 
 
 ### Baixe o projeto
 ```bash
