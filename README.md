@@ -1,4 +1,4 @@
-## Projeto consiste em provisionar uma função lambda com python, policy e role que permite criar invalidation na distribuição do cloudfront 
+## Projeto consiste em provisionar uma função lambda com python, policy e role que permite criar invalidation na distribuição do cloudfront
 
 ### Baixe o projeto
 ```bash
@@ -50,4 +50,6 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_arn-lambda"></a> [arn-lambda](#output\_arn-lambda) | n/a |
